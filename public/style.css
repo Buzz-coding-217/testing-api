@@ -1,0 +1,65 @@
+    .background{
+        background-color: rgba(119, 174, 182, 0.432);
+    }
+    .heading {
+        font-size: 60px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .iot {
+        font-size: 27px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    }
+    .list-group {
+        margin-left: 20%;
+    }
+    .list-group-item {
+        width: 30%;
+    }
+    .app {
+        font-size: 45px;
+        margin-left: 30%;
+        margin-top: -1%;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+
+    .table {
+        display: table;   /* Allow the centering to work */
+        margin: 0 auto;
+    }
+    
+    ul#horizontal-list {
+        min-width: 696px;
+        list-style: none;
+        padding-top: 20px;
+        }
+        ul#horizontal-list li {
+            display: inline;
+            margin-left: 10px;
+        }
+    li {
+        font-size: 22px;
+        border: 2px solid rgba(106, 232, 252, 0.432);
+        border-radius: 10px;
+        background:rgba(106, 232, 252, 0.432);
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .act {
+        font-size: 45px;
+        margin-left: 40%;
+        margin-top: -1%;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .acth {
+        font-size: 25px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .para {
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .intro {
+        font-size: 45px;
+        margin-left: 35%;
+        margin-top: -1%;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
